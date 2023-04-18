@@ -1,5 +1,5 @@
 - 👋 Hello Geeks myself @dhavaljaihind
-- 👀 I’m Cyber Security Researcher ● Bug Hunter ● Full Stack Developer (MERN Stack) ● UI/UX Designer ● RedHat Server Administrator ● Network Security & Administrator
+- 👀 I’m Cyber Security Researcher ● Bug Hunter ● Full Stack Developer (MERN Stack) ● UI/UX Designer ● RedHat Server Administrator ● Network Security & Administrator ● Digital Forensic ● VAPT
 
 Connect With Me :)
 
